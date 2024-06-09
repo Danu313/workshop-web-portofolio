@@ -18,19 +18,19 @@
         <div>
           <div class="mb-2">
             <a href="mailto:alfiankurniawan85@gmail.com" class="text-body fs-5 text-decoration-none">
-              <i class='fs-4 bx bx-envelope' ></i> alfiankurniawan85@gmail.com </a>
+              <i class='fs-4 bx bx-envelope' ></i> mw18804@gmail.com </a>
           </div>
           <div class="mb-2">
-            <a href="https://wa.me/628156532654" target="_blank" class="text-body fs-5 text-decoration-none">
-              <i class='fs-4 bx bxl-whatsapp' ></i> (+62) 81-565-326-54 </a>
+            <a href="https://wa.me/6282329092617" target="_blank" class="text-body fs-5 text-decoration-none">
+              <i class='fs-4 bx bxl-whatsapp' ></i> (+62) 82329092617 </a>
           </div>
           <div class="mb-2">
-            <a href="https://www.instagram.com/haloalfii/" target="_blank" class="text-body fs-5 text-decoration-none">
-              <i class='fs-4 bx bxl-instagram' ></i> @haloalfii </a>
+            <a href="https://www.instagram.com/threadripper_000/" target="_blank" class="text-body fs-5 text-decoration-none">
+              <i class='fs-4 bx bxl-instagram' ></i> @threadripper_000 </a>
           </div>
           <div class="mb-2">
-            <a href="https://www.linkedin.com/in/haloalfii/" target="_blank" class="text-body fs-5 text-decoration-none">
-              <i class='fs-4 bx bxl-linkedin' ></i> @haloalfii </a>
+            <a href="https://www.linkedin.com/in/muhammad-wildanu-staifen-81106428b/" target="_blank" class="text-body fs-5 text-decoration-none">
+              <i class='fs-4 bx bxl-linkedin' ></i> @Wildanu </a>
           </div>
         </div>
       </div>

@@ -15,17 +15,17 @@
           </div>
           <div class="row row-cols-1 row-cols-md-3 mb-4">
             <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center rounded-4 p-3 h-100">PHP</div></div>
-            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center rounded-4 p-3 h-100">GO</div></div>
+            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center rounded-4 p-3 h-100">Python</div></div>
             <div class="col"><div class="d-flex align-items-center rounded-4 p-3 h-100">JavaScript</div></div>
           </div>
           <div class="row row-cols-1 row-cols-md-3 mb-4">
             <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center rounded-4 p-3 h-100">Laravel</div></div>
-            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center rounded-4 p-3 h-100">Nuxt Js</div></div>
-            <div class="col"><div class="d-flex align-items-center rounded-4 p-3 h-100">Nest Js</div></div>
+            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center rounded-4 p-3 h-100">Next Js</div></div>
+            <div class="col"><div class="d-flex align-items-center rounded-4 p-3 h-100">SQL</div></div>
           </div>
           <div class="row row-cols-1 row-cols-md-3">
             <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center rounded-4 p-3 h-100">React Js</div></div>
-            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center rounded-4 p-3 h-100">Next Js</div></div>
+            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center rounded-4 p-3 h-100">Tailwind CSS</div></div>
           </div>
         </div>
       </div>

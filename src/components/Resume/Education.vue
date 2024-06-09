@@ -10,7 +10,7 @@ export default {
         field: "Informatics",
         description: [
           "In the Informatics Study Program I learned a lot about the basics of Programming and continued up to Advance Programming.",
-          "I graduated from Amikom University with 3.71 GPA.",
+          "I'm still studying here to develop my skills",
         ]
       },
     ]

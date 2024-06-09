@@ -1,41 +1,41 @@
 <script>
 export default {
   data(){
-    return {
-      experiences:[
-        {
-          year: "Nov 2021 - Present",
-          jobs: "Software Engineer",
-          company: "Dunia Coding",
-          location: "Yogyakarta",
-          description: [
-            "Developed and maintained websites using Nuxt.js and Laravel, contributing to the creation of robust and efficient web applications.",
-            "Created comprehensive tutorials on React and Vue, aimed at educating and empowering aspiring developers within the community.",
-          ]
-        },
-        {
-          year: "Feb 2022 - Feb 2024",
-          jobs: "Software Engineer",
-          company: "PT Gamatechno Indonesia",
-          location: "Yogyakarta",
-          description: [
-            "Developed numerous projects using Nuxt.js, harnessing its capabilities to create responsive and user-friendly front-end experiences.",
-            "Played a pivotal role in establishing and implementing coding standards for Nuxt.js, ensuring consistency, readability, and maintainability across projects.",
-            "Conducted code reviews, optimizations, and implemented best practices for scalable and maintainable codebases."
-          ]
-        },
-        {
-          year: "Sep 2021 - Nov 2021",
-          jobs: "Intern Backend Developer",
-          company: "Zerolim",
-          location: "Remote",
-          description: [
-            "Gained hands-on experience in backend development tools such as Postman and GitLab, utilizing these tools to streamline development processes and enhance project workflows.",
-            "Designed and developed APIs for internal Data Applications, contributing to the company's data management and accessibility initiatives.",
-          ]
-        }
-      ]
-    }
+    // return {
+    //   experiences:[
+    //     {
+    //       year: "Nov 2021 - Present",
+    //       jobs: "Software Engineer",
+    //       company: "Dunia Coding",
+    //       location: "Yogyakarta",
+    //       description: [
+    //         "Developed and maintained websites using Nuxt.js and Laravel, contributing to the creation of robust and efficient web applications.",
+    //         "Created comprehensive tutorials on React and Vue, aimed at educating and empowering aspiring developers within the community.",
+    //       ]
+    //     },
+    //     {
+    //       year: "Feb 2022 - Feb 2024",
+    //       jobs: "Software Engineer",
+    //       company: "PT Gamatechno Indonesia",
+    //       location: "Yogyakarta",
+    //       description: [
+    //         "Developed numerous projects using Nuxt.js, harnessing its capabilities to create responsive and user-friendly front-end experiences.",
+    //         "Played a pivotal role in establishing and implementing coding standards for Nuxt.js, ensuring consistency, readability, and maintainability across projects.",
+    //         "Conducted code reviews, optimizations, and implemented best practices for scalable and maintainable codebases."
+    //       ]
+    //     },
+    //     {
+    //       year: "Sep 2021 - Nov 2021",
+    //       jobs: "Intern Backend Developer",
+    //       company: "Zerolim",
+    //       location: "Remote",
+    //       description: [
+    //         "Gained hands-on experience in backend development tools such as Postman and GitLab, utilizing these tools to streamline development processes and enhance project workflows.",
+    //         "Designed and developed APIs for internal Data Applications, contributing to the company's data management and accessibility initiatives.",
+    //       ]
+    //     }
+    //   ]
+    // }
   }
 }
 </script>
